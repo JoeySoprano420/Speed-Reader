@@ -1,0 +1,6 @@
+
+let mut acc = 0
+for (let mut i = 0; i < 5; i = i + 1) {
+  acc = acc + i
+}
+print acc
